@@ -1,5 +1,7 @@
 # Design Values
 
+Design values provide the criteria for evaluation of success or failure in our design efforts.
+
 ## Use restraint
 
 Don't make a decision until we have to. Designers should focus on the basic product features using minimal design elements to express the solution. As Antoine de St.Exupery said:
